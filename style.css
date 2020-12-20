@@ -81,6 +81,7 @@ button:focus{
 }
 .services-header {
   margin-top: 2rem;
+  margin-bottom: -5rem;
 }
 .services-header h2 {
   font-family: Gilroy;
@@ -436,6 +437,9 @@ video {
   html {
     overflow-x: hidden;
   }
+  .clients h2{
+    margin-top: 1rem
+  }
   body {
     background: url(img/mobile-back.png);
     background-repeat: no-repeat;
@@ -558,7 +562,7 @@ video {
   }
   .clients .etiquette .phone-review p {
     margin-top: -1rem;
-    margin-left: 9rem;
+    margin-left: 10rem;
     color: #F25B5C;
   }
   .clients .obmen .tags-1 {
